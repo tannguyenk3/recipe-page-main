@@ -73,6 +73,7 @@ ul li::marker {
     font-family: "Young Serif", serif;
     color: hsl(14, 45%, 36%);
     margin-top: 25px;
+    margin-bottom: 20px;
     font-weight: 400;
 }
 
